@@ -1,1 +1,10 @@
-.
+[
+  {
+    "name": "theme_info",
+    "theme_name": "OneDayThing Theme",
+    "theme_author": "Attilio",
+    "theme_version": "1.0.0",
+    "theme_documentation_url": "",
+    "theme_support_url": ""
+  }
+]
